@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Parmar</h1>
 <h3 align="center">Fresher Java Developer</h3>
 
-<img align="right"alt="coding"width="50"src="![image](https://github.com/Skycode51/Skycode51/assets/154714952/fa4dd8c4-9f35-4a43-8c64-627a1ba58291)
+<img align="right"alt="coding"width="10"src="![image](https://github.com/Skycode51/Skycode51/assets/154714952/fa4dd8c4-9f35-4a43-8c64-627a1ba58291)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skycode51&label=Profile%20views&color=0e75b6&style=flat" alt="skycode51" /> </p>
