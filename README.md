@@ -3,7 +3,7 @@
          
 </h3>
 
-<img src="https://shayangul.com/wp-content/uploads/2024/08/DALL%C2%B7E-2024-08-31-19.05.33-A-modern-dark-themed-programmers-workspace-in-a-room.-The-scene-features-a-desk-with-multiple-monitors-displaying-various-programming-codes-and-tool.webp" alt="Coder" align="center" width="500" height="500">
+<img src="https://shayangul.com/wp-content/uploads/2024/08/DALL%C2%B7E-2024-08-31-19.05.33-A-modern-dark-themed-programmers-workspace-in-a-room.-The-scene-features-a-desk-with-multiple-monitors-displaying-various-programming-codes-and-tool.webp" alt="Coder" align="center" width="600" height="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skycode51&label=Profile%20views&color=0e75b6&style=flat" alt="skycode51" /> </p>
