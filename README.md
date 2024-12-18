@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Parmar</h1>
-<h3 align="center">FIGMA Designer + Frontend Developer + Dot NET Developer
+<h3 align="center">UI/UX Designer + Frontend Developer + Dot NET Developer
          
 </h3>
 
